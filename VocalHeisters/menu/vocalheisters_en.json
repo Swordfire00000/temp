@@ -1,0 +1,13 @@
+{
+	"vh_title": "Vocal Heisters",
+	"vh_desc": "Options for Vocal Heisters",
+
+	"vh_enable_sync": "Enable Sync",
+	"vh_enable_sync_desc": "If enabled, other players will be able to hear your voice lines.",
+	"vh_enable_anticipation_lines": "Enable anticipation lines",
+	"vh_enable_anticipation_lines_desc": "NEEDS the Narrator Anticipation Dialog Restoration mod (or VoidUI) installed to work! If enabled, your heister will say lines during assault anticipations.",
+	"vh_disable_voice_line_force_loading": "Disable forced voiceline loading",
+	"vh_disable_voice_line_force_loading_desc": "If enabled, the mod will no longer load voice lines. Not recommended, this will cause missing voice lines in some heists.",
+
+	"vh_thanks": "Carkidd <3"
+}

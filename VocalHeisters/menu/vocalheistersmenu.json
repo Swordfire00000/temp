@@ -1,0 +1,37 @@
+{
+	"menu_id": "vocalheistersmenu",
+	"parent_menu_id": "blt_options",
+	"title": "vh_title",
+	"description": "vh_desc",
+	"back_callback": "vhsave",
+	"items":
+	[
+		{
+			"type" : "toggle",
+			"id" : "vh_enable_sync",
+			"title" : "vh_enable_sync",
+			"description" : "vh_enable_sync_desc",
+			"callback" : "vh_enable_sync",
+			"value" : "vh_enable_sync",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "vh_enable_anticipation_lines",
+			"title" : "vh_enable_anticipation_lines",
+			"description" : "vh_enable_anticipation_lines_desc",
+			"callback" : "vh_enable_anticipation_lines",
+			"value" : "vh_enable_anticipation_lines",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "vh_disable_voice_line_force_loading",
+			"title" : "vh_disable_voice_line_force_loading",
+			"description" : "vh_disable_voice_line_force_loading_desc",
+			"callback" : "vh_disable_voice_line_force_loading",
+			"value" : "vh_disable_voice_line_force_loading",
+			"default_value" : false
+		}
+	]
+}

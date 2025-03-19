@@ -1,0 +1,74 @@
+{
+    "blt_version" : 2,
+    "name": "Vocal Heisters",
+    "description": "Makes heisters talk more during heists",
+    "author": "Rokk",
+    "contact": "http://steamcommunity.com/id/Rokk or morerokk#2048",
+    "version": "1.2",
+    "hooks": [
+        {
+            "hook_id": "lib/managers/challengemanager",
+            "script_path": "lua/challengemanager.lua"
+        },
+        {
+            "hook_id": "lib/managers/playermanager",
+            "script_path": "lua/playermanager.lua"
+        },
+        {
+            "hook_id": "lib/managers/hudmanager",
+            "script_path": "lua/hudmanager.lua"
+        },
+        {
+            "hook_id": "lib/managers/killzonemanager",
+            "script_path": "lua/killzonemanager.lua"
+        },
+        {
+            "hook_id": "lib/managers/group_ai_states/groupaistatebase",
+            "script_path": "lua/groupaistatebase.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/playerdamage",
+            "script_path": "lua/playerdamage.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/huskplayermovement",
+            "script_path": "lua/huskplayermovement.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/playerstandard",
+            "script_path": "lua/playerstandard.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/playertased",
+            "script_path": "lua/playertased.lua"
+        },
+        {
+            "hook_id": "lib/tweak_data/playertweakdata",
+            "script_path": "lua/loadallvoicelines.lua"
+        },
+        {
+            "hook_id": "lib/units/props/carrydata",
+            "script_path": "lua/carrydata.lua"
+        },
+        {
+            "hook_id": "lib/units/weapons/grenades/teargasgrenade",
+            "script_path": "lua/teargasgrenade.lua"
+        },
+        {
+            "hook_id": "lib/network/handlers/unitnetworkhandler",
+            "script_path": "lua/unitnetworkhandler.lua"
+        },
+        {
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "menu/vocalheistersmenu.lua"
+        }
+    ],
+	"updates" : [
+		{
+			"identifier" : "vocalheisters",
+			"host" : {
+				"meta" : "https://github.com/HugoZink/PD2_VocalHeisters/releases/download/pd2mod_release/meta.json"
+			}
+		}
+	]
+}
