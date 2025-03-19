@@ -1,0 +1,12 @@
+{
+	"name" : "ragdoll sounds",
+	"description" : "",
+	"author" : "fugsystem",
+	"blt_version" : 2,
+    "hooks": [
+		{
+			"hook_id": "lib/units/enemies/cop/actions/full_body/copactionhurt",
+			"script_path": "copactionhurt.lua"
+		}
+	]
+}

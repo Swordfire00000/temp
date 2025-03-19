@@ -1,0 +1,13 @@
+{
+	"name" : "No Auto-Kick Cheaters",
+	"description" : "Disables the Auto-Kick Cheaters option by default",
+	"author" : "\n    Snh20",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		}
+	]
+}

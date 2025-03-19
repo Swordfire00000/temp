@@ -1,0 +1,25 @@
+{
+  "name" : "Refund Offshore on crash",
+  "description" : "self-explaining title",
+  "author" : "DareFox",
+  "contact" : "linktr.ee/DareFox",
+  "version": "1.2",
+  "color" : "0.01 0.70 0.06",
+  "blt_version": 2,
+  "image": "icon.png"
+  "priority" : 10,
+  "hooks": [
+    {
+      "hook_id": "lib/managers/moneymanager",
+      "script_path": "mod.lua"
+    }
+  ],
+  "updates" : [
+    {
+        "identifier" : "darefox_refund_offshore_on_crash",
+        "host": {
+            "meta": "https://raw.githubusercontent.com/DareFox/refund-offshore-on-crash-pd2/main/meta.json"
+        }
+    }
+  ] 
+}

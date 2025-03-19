@@ -1,0 +1,9 @@
+{
+	"name" : "No Idle Intro",
+	"description" : "Disable 'attract video' if idling at main menu.",
+	"author" : "Jindetta",
+	"version" : "0.1",
+	"hooks" : [
+		{ "hook_id" : "lib/states/menutitlescreenstate", "script_path" : "skip_attract_video.lua" }
+	]
+}

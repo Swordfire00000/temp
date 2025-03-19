@@ -1,0 +1,14 @@
+{
+	"name": "Reorganized Black Market Buttons",
+	"description": "Reorganizes buttons in the Black Market and fixes sometimes not being able to highlight or press buttons.",
+	"author": "Krimzin",
+	"contact": "https://www.modworkshop.net/mod/27168",
+	"version": "1.0.0",
+	"blt_version": 2,
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menu/BlackMarketGui",
+			"script_path": "hooks/BlackMarketGui.lua"
+		}
+	]
+}
