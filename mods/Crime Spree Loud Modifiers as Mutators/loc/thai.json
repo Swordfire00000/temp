@@ -1,0 +1,66 @@
+{
+    "mutator_assault_extender" : "รอบจู่โจมยาวนานกว่าเดิม",
+    "mutator_assault_extender_desc" : "มีรอบจู่โจมที่นานกว่าเดิม",
+
+    "mutator_cloaker_arrest" : "การจับกุมโดย Cloaker",
+    "mutator_cloaker_arrest_desc" : "ถูกใส่กุญแจมือหากถูกทำให้ล้มโดย Cloaker",
+
+    "mutator_cloaker_smoke" : "ระเบิดควันจาก Cloaker",
+    "mutator_cloaker_smoke_desc" : "เมื่อ Cloaker เตะจะมีระเบิดควันปล่อยออกมา",
+
+    "mutator_cloaker_tear_gas" : "แก็สน้ำตาจาก Cloaker",
+    "mutator_cloaker_tear_gas_desc" : "เมื่อ Cloaker ตาย แก็สน้ำตาจะถูกปล่อยออกมา",
+
+    "mutator_dozer_explosion_immunity" : "Dozer เป็นอมตะจากระเบิด",
+
+    "mutator_dozer_rage" : "ความโกรธของ Dozer",
+    "mutator_dozer_rage_desc" : "ค่าการโจมตีของ Bulldozer เพิ่มขึ้น 100% เมื่อหน้ากากป้องกันหน้าของ Bulldozer ถูกทำลาย",
+
+    "mutator_heavies" : "ยูนิตโจมตีหนักของหน่วย SWAT",
+    "mutator_heavies_desc" : "ยูนิตโจมตีหนักจะเกิดมาแทนที่ยูนิตโจมตีทั่วไป",
+    "mutator_heavies_longdesc" : "ทุกๆ ยูนิตโจมตีทั่วไป (Light Units) จะมียูนิตโจมตีหนัก (Heavy Units) เกิดมาแทนที่",
+
+    "mutator_medic_adrenaline" : "การเพิ่มพลังโจมตี่หลังฟื้นคืนชีพโดย Medic",
+    "mutator_medic_adrenaline_desc" : "เมื่อตำรวจถูกฟื้นคืนชีพโดย Medic ค่าการโจมตีจะเพิ่มมากขึ้นกว่าเดิม",
+
+    "mutator_medic_deathwish" : "ฟื้นฟูเลือดเต็มสูบหลัง Medic ตาย",
+    "mutator_medic_deathwish_desc" : "ศัตรูทุกตัวที่อยู่ใกล้ Medic ได้รับเลือดเต็มเมื่อ Medic ตาย",
+
+    "mutator_medic_dozer" : "Medic Dozer",
+    "mutator_medic_dozer_desc" : "Medic Dozers สามารถเกิดได้ในด่านนี้",
+
+    "mutator_medic_heal_speed" : "การเพิ่มความเร็วการรักษาโดย Medic",
+    "mutator_medic_heal_speed_desc" : "ความเร็วการรักษาชีวิตของ Medic เพิ่มขึ้น",
+
+    "mutator_medic_rage" : "ความโกรธของ Medic",
+    "mutator_medic_rage_desc" : "เมื่อไหร่ก็ตามที่ Medic รักษาชีวิตยูนิต, Medic จะมีค่าการโจมตีดั้งเดิมสูงขึ้น",
+
+    "mutator_minigun_dozer" : "Minigun Dozer",
+    "mutator_minigun_dozer_desc" : "Minigun Dozers สามารถเกิดได้ในด่านนี้",
+
+    "mutator_more_dozers" : "เพิ่ม Dozers ขึ้นอีก",
+    "mutator_more_dozers_desc" : "เพิ่ม dozers ให้มีจำนวนมากขึ้นกว่าเดิมในด่าน",
+    "mutator_more_dozers_activated" : "จำนวน Bulldozers เพิ่มขึ้น $amount นายในด่านนี้",
+
+    "mutator_more_medics" : "เพิ่ม Medics ขึ้นอีก",
+    "mutator_more_medics_desc" : "เพิ่ม Medics ให้มีจำนวนมากขึ้นกว่าเดิมในด่าน",
+    "mutator_more_medics_activated" : "จำนวน Medics เพิ่มขึ้น $amount นายในด่านนี้",
+
+    "mutator_no_anim_hurts" : "ไม่มีอนิเมชันท่าบาดเจ็บ",
+    "mutator_no_anim_hurts_desc" : "ไร้ซึ่งความกลัว",
+
+    "mutator_shield_phalanx" : "ลูกน้องกัปตัน Winters ",
+    "mutator_shield_phalanx_desc" : "ยูนิต Shield ถูกแทนที่ด้วยยูนิต Winter's shield.",
+
+    "mutator_shield_reflect" : "การสะท้อนของยูนิต Shield",
+    "mutator_shield_reflect_desc" : "การสะท้อนการโจมตีแบบโปรเจคไทล์ของยูนิต Shields",
+
+    "mutator_skulldozer" : "Skulldozer",
+    "mutator_skulldozer_desc" : "Skulldozers สามารถเกิดได้ในด่านนี้",
+
+    "mutator_taser_overcharge" : "กระแสไฟฟ้าเกินพิกัดจาก Taser",
+    "mutator_taser_overcharge_desc" : "ยูนิต Taser สามารถทำให้ผู้เล่นล้มเร็วกว่าเดิม",
+
+    "mutator_zeal_sniper" : "Zeal Snipers",
+    "mutator_zeal_sniper_desc" : "แทนที่ยูนิต Heavies ทุกชนิดด้วย Zeal Snipers"
+}

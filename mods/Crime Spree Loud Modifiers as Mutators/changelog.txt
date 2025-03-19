@@ -1,0 +1,16 @@
+r4 (04. 10. 2021):
+Mutator Heavy SWAT Units: Added more units to swap
+Mutator Minigun Dozer: Fixed a possible crash when bulldozers are not defined to spawn
+
+r3 (06. 11. 2019):
+Updated code to use newer functions introduced in Mutator Helper r8
+Fixed an issue where translated strings didn't show up correctly
+
+r2 (10. 09. 2019):
+Added mod icon
+Added Thai translation
+Fixed translation issues
+Fixed an issue where Cloaker Arrest modifier didn't show up
+
+r1 (01. 09. 2019):
+First Release

@@ -1,0 +1,7 @@
+{
+    "menu_cs_modifier_assault_extender" : "La duración de los asaltos es aumentada por un 50%. Este aumento se reduce por un 4% por cada rehén o enemigo convertido que tenga tu equipo, hasta un máximo de 8 rehenes.",
+
+    "mutator_more_dozers_activated" : "El límite de Bulldozers que pueden haber a la vez es aumentado por $amount.",
+
+    "mutator_more_medics_activated" : "El límite de Medics que pueden haber a la vez es aumentado por $amount."
+}

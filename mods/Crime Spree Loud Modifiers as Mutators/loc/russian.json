@@ -1,0 +1,5 @@
+{
+    "mutator_more_dozers_activated" : "На задании присутствуют $amount дополнительных бульдозера.",
+
+    "mutator_more_medics_activated" : "На задании присутствуют $amount дополнительных медика."
+}

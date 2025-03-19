@@ -1,0 +1,7 @@
+{
+  "name": "Better Crew Management",
+  "description": "Apply the current crew loadout to other profiles",
+  "author": "Satch",
+  "version": "1.1.0",
+  "blt_version": 2
+}

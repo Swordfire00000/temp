@@ -1,0 +1,10 @@
+{
+    "name" : "Cloaker Camera Control Tweak",
+    "description" : "Removes the automatic turning of the player's camera when being attacked by a Cloaker.",
+	"hooks" : [
+    {   
+        "hook_id" : "lib/units/enemies/spooc/actions/lower_body/actionspooc",
+        "script_path" : "cloakercameracontroltweak.lua"
+    }
+	]
+}

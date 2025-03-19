@@ -1,0 +1,5 @@
+{
+    "mutator_more_dozers_activated" : "Es sind $amount zusätzliche Bulldozer im Level erlaubt.",
+
+    "mutator_more_medics_activated" : "Es sind $amount zusätzliche Sanitäter im Level erlaubt."
+}

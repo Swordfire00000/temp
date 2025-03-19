@@ -1,0 +1,71 @@
+{
+    "mutator_assault_extender" : "Assault Extender",
+    "mutator_assault_extender_desc" : "Longer assaults.",
+
+    "mutator_cloaker_arrest" : "Cloaker Arrest",
+    "mutator_cloaker_arrest_desc" : "Cuffed when kicked by a Cloaker.",
+
+    "mutator_cloaker_smoke" : "Cloaker Smoke",
+    "mutator_cloaker_smoke_desc" : "Smoke upon kick.",
+
+    "mutator_cloaker_tear_gas" : "Cloaker Tear Gas",
+    "mutator_cloaker_tear_gas_desc" : "Tear Gas upon Cloaker's death.",
+
+    "mutator_dozer_explosion_immunity" : "Dozer Explosion Immunity",
+    "mutator_dozer_explosion_immunity_longdesc" : "",
+
+    "mutator_dozer_rage" : "Dozer Rage",
+    "mutator_dozer_rage_desc" : "100% damage increase when a Bulldozer's faceplate is destroyed.",
+
+    "mutator_heavies" : "Heavy SWAT Units",
+    "mutator_heavies_desc" : "Heavy Units replaces Light Units.",
+    "mutator_heavies_longdesc" : "Every light police unit is replaced by heavy police unit.",
+
+    "mutator_medic_adrenaline" : "Medic Revive Damage Boost",
+    "mutator_medic_adrenaline_desc" : "Whenever a cop is revived by Medic, that enemy gets an increase in their damage output.",
+
+    "mutator_medic_deathwish" : "Heal when Medic is dead",
+    "mutator_medic_deathwish_desc" : "All enemies are healed upon Medic's death.",
+
+    "mutator_medic_dozer" : "Medic Dozer",
+    "mutator_medic_dozer_desc" : "Medic Dozers are allowed into the level.",
+
+    "mutator_medic_heal_speed" : "Medic Heal Speed Boost",
+    "mutator_medic_heal_speed_desc" : "Medic's heal speed is increased.",
+    "mutator_medic_heal_speed_longdesc" : "",
+
+    "mutator_medic_rage" : "Medic Rage",
+    "mutator_medic_rage_desc" : "Whenever a Medic revives another cop, Medic's base damage is increased.",
+
+    "mutator_minigun_dozer" : "Minigun Dozer",
+    "mutator_minigun_dozer_desc" : "Minigun Dozers are allowed into the level.",
+
+    "mutator_more_dozers" : "More Dozers",
+    "mutator_more_dozers_desc" : "More dozers in the level.",
+    "mutator_more_dozers_longdesc" : "",
+    "mutator_more_dozers_activated" : "$amount additional Bulldozers are allowed into the level.",
+
+    "mutator_more_medics" : "More Medics",
+    "mutator_more_medics_desc" : "More medics in the level.",
+    "mutator_more_medics_longdesc" : "",
+    "mutator_more_medics_activated" : "$amount additional Medics are allowed into the level.",
+
+    "mutator_no_anim_hurts" : "No Animation Hurts",
+    "mutator_no_anim_hurts_desc" : "Fearless.",
+
+    "mutator_shield_phalanx" : "Winters' Shields",
+    "mutator_shield_phalanx_desc" : "Every shield is replaced by Winter's shield.",
+
+    "mutator_shield_reflect" : "Shield Reflect",
+    "mutator_shield_reflect_desc" : "Enemy shields reflect projectiles.",
+
+    "mutator_skulldozer" : "Skulldozer",
+    "mutator_skulldozer_desc" : "Skulldozers are allowed into the level.",
+    "mutator_skulldozer_longdesc" : "",
+
+    "mutator_taser_overcharge" : "Taser Overcharge",
+    "mutator_taser_overcharge_desc" : "Faster knockout effect from a Taser.",
+
+    "mutator_zeal_sniper" : "Zeal Snipers",
+    "mutator_zeal_sniper_desc" : "Zeal Snipers instead of Heavies."
+}

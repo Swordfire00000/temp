@@ -1,0 +1,13 @@
+{
+	"name" : "DS Damage / Health Rebalance",
+	"description" : "A mod that changes damage and health of enemies faced in game so that DS feels like a mode above DW.",
+	"author" : "yeahIDKwhat",
+	"version" : "2",
+	"blt_version" : 2,
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/charactertweakdata",
+			"script_path": "damage.lua"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Correctly Facing Body Bags Case",
+	"description" : "Rotate the goddamn Body Bags Case!",
+	"author" : "Hinaomi & Hoppip",
+	"contact" : "hinaomi#8016",
+	"color" : "0.043 0.808 0.6",
+	"version" : "1.0",
+	"hooks" : [
+		{ "hook_id" : "lib/units/beings/player/playerequipment", "script_path" : "mod.lua" }
+	]
+}

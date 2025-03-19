@@ -1,0 +1,14 @@
+{
+    "author": "RaGGa",
+	"name": "Display Deployable in Menu",
+	"description": "The mod displays player's equipped deployable bags in the main menu, lobby, and inventory screens.",
+	"contact": "https://steamcommunity.com/id/ragga_official/",
+	"version": "1.1",
+	"blt_version": 2,
+	"hooks": [
+        {
+            "hook_id": "lib/managers/menu/menuscenemanager",
+            "script_path": "mod.lua"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "BetterCrewManagement_mod_title": "Crew Loadout",
+  "BetterCrewManagement_profile": "Profile",
+
+  "BetterCrewManagement_panel_button_apply_to_other_profile": "Apply to other profile",
+  "BetterCrewManagement_panel_button_apply_to_all_profiles": "Apply to all profiles",
+  "BetterCrewManagement_panel_button_reset_crew_loadout": "Reset this crew loadout",
+
+  "BetterCrewManagement_dialog_text_profile_selection": "Choose a profile to apply the current crew loadout to",
+
+  "BetterCrewManagement_dialog_text_apply_to_other_profile": "Apply this crew loadout to",
+  "BetterCrewManagement_dialog_text_apply_to_all_profiles": "Apply this crew loadout to ALL profiles?",
+  "BetterCrewManagement_dialog_text_reset_crew_loadout": "Reset the current crew loadout to default?"
+}

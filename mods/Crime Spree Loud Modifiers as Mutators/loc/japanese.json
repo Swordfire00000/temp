@@ -1,0 +1,5 @@
+{
+    "mutator_more_dozers_activated" : "ステージ内で出現するブルドーザーが$amount体増える。",
+
+    "mutator_more_medics_activated" : "レベル内に出現するメディックが$amount体増える。"
+}

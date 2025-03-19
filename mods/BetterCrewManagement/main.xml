@@ -1,0 +1,11 @@
+<mod name="BetterCrewManagement"
+     global_key="better_crew_management"
+     color="Color(0.79,0.41,0.34)"
+     author="Satch"
+>
+    <Hooks directory="hooks">
+        <hook file="CrewManagementGUI.lua" source_file="lib/managers/menu/CrewManagementGUI"/>
+    </Hooks>
+
+    <Localization directory="i18n" default="english.json"/>
+</mod>

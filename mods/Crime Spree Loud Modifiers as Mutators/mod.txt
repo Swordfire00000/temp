@@ -1,0 +1,42 @@
+{
+    "name": "Crime Spree Loud Modifiers as Mutators",
+    "description": "",
+    "author": "Dom",
+    "contact": "http://steamcommunity.com/profiles/76561198078556212/",
+    "version": "4",
+    "blt_version" : 2,
+    "image" : "cslmm.png",
+    "updates" :
+    [
+        {
+            "identifier" : "CSLMM",
+            "host":
+            {
+                "meta": "https://www.dropbox.com/s/b1hkmlxt8sifjcc/meta.json?raw=1"
+            }
+        }
+    ],
+    "updates+" :
+    [
+        {
+            "identifier" : "CSLMM",
+            "host":
+            {
+                "meta": "https://www.dropbox.com/s/mk2xay3h3wbb5pa/meta_plus.json?raw=1",
+                "download": "https://www.dropbox.com/s/shtbcrrmi883i6i/CSLMM.zip?raw=1",
+                "patchnotes": "https://modworkshop.net/mydownloads.php?action=view_down&did=25429#changelog"
+            },
+            "no_hash": true
+        }
+    ],
+    "hooks" : [
+        {
+            "hook_id" : "lib/modifiers/modifierheavies",
+            "script_path" : "modifiers/ModifierHeavies.lua"
+        },
+        {
+            "hook_id" : "lib/mutators/basemutator",
+            "script_path" : "basemutator.lua"
+        }
+    ]
+}
