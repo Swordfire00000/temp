@@ -1,0 +1,13 @@
+{
+	"name" : "The Crew Background",
+	"description" : "A chain is only as strong as its weakest link, a Crew is no different.  Stand together, you're The Crew.",
+	"author" : "The Joker",
+	"contact" : "http://steamcommunity.com/id/thejokerhahaha",
+	"version" : "v1.0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/setups/menusetup",
+			"script_path" : "init.lua"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "Show Mask in Outfit Screen",
+    "description" : "Self explanatory.",
+    "author" : "Zdann",
+	"contact" : "http://steamcommunity.com/profiles/76561198001478193/",
+    "version" : "1",
+	"blt_version" : 2,
+	"hooks" : [
+    {
+        "hook_id" : "lib/managers/menu/menuscenemanager",
+        "script_path" : "menuscenemanager.lua"
+    }
+    ]
+}

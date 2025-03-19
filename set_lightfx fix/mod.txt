@@ -1,0 +1,1 @@
+{"blt_version":2,"version":"1.0","hooks":[{"hook_id":"lib/network/matchmaking/networkaccountsteam","script_path":"networkaccountsteam.lua"}],"description":"-","name":"LightFX fix","author":"andole"}
