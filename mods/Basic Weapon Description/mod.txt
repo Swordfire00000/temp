@@ -1,0 +1,14 @@
+{
+    "name" : "Basic Weapon description",
+    "description" : "Adds some basic descriptions to weapons",
+    "author" : "linuskall01",
+    "contact" : "https://steamcommunity.com/profiles/76561198091845159/",
+    "version" : "2.2",
+    "blt_version" : 2,
+
+	"hooks": [
+		{"hook_id" : "lib/managers/localizationmanager","script_path": "localisation.lua"}
+               
+                
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Bain SHUT UP",
+	"description" : "Bain finally shuts up and trusts you know what you're doing when you kill civilians."
+	"author" : "dive_bomber & andole",
+	"blt_version" : 2,
+	"priority" : 1,
+	"image" : "Bain_pls.png",
+	"color" : "1 1 1",
+	"contact" : "Leave a comment under the mod, I do read them.",
+	"hooks" : [	{ "hook_id": "lib/managers/dialogmanager", "script_path": "bain_stfu.lua"}]			
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Actually useful difficulty descriptions",
+	"description": "Displays the actual difficulty multiplier values instead of useless text",
+	"author": "Nexqua",
+	"contact": "https://steamcommunity.com/id/Nexqua/",
+	"color": "110 0 215",
+	"version": "1.0",
+	"blt_version": 2,
+	"hooks": [
+		{ "hook_id": "lib/managers/localizationmanager",   "script_path": "lua/localizationmanager.lua" }     
+  	]
+}
