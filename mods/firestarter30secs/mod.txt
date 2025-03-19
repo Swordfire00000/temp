@@ -1,0 +1,10 @@
+{
+	"name" : "Disable some repeated dialogue",
+	"description" : "Disables/fixes a few dialogue events that are superfluous or get executed multiple times.",
+	"author" : "tscend",
+	"contact" : "tscend",
+	"version" : "1",
+	"hooks" : [
+		{ "hook_id" : "core/lib/managers/mission/coremissionmanager", "script_path" : "firestarter30secs.lua" }
+	]
+}

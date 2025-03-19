@@ -1,0 +1,14 @@
+{
+	"name": "Hidden Content Updates",
+	"description": "Hides the ugly advertisements in the corner.",
+	"author": "Zdann",
+	"contact": "",
+	"version": "",
+	"priority": 0,
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menu/newheistsgui",
+			"script_path": "newheistsgui.lua"
+		}
+	]
+}

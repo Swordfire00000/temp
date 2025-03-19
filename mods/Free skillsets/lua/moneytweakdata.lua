@@ -1,0 +1,35 @@
+Hooks:PostHook(MoneyTweakData, "init" , "OhNoMoreSkillset_MoneyTweakData_init" , function(self, tweak_data)
+	self.skill_switch_cost = {
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		-- ---------------------------------
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0},
+		{spending = 0, offshore = 0}
+	}
+end)
