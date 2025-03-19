@@ -1,0 +1,1904 @@
+04:36:37 PM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+04:36:37 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+04:36:37 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+04:36:38 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+04:36:40 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Register tweak: 4baacfbda800c3a1.5f4f63fc336a19d5
+04:36:40 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Register tweak: 4baacfbda800c3a1.e4999c1d5a38e5fc
+04:36:40 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+04:36:40 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:36:58 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+04:36:58 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:36:58 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:36:58 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:36:58 PM Lua: [INFO] [BLT] Removing log: 2025_03_18_log.txt
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:36:59 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:36:59 PM Log:  (C:\projects\payday2-superblt\src\plugins\plugins.cpp:42) Loading binary extension mods/Borderless Windowed Updated/Borderless Windowed Updated.dll
+04:36:59 PM Log:  (ExtModDLL D:\MyProject\PAYDAY2-Borderless-Windowed-Updated\src\main.cpp:84) Initializing Borderless Windowed Updated
+04:36:59 PM Log:  (ExtModDLL D:\MyProject\PAYDAY2-Borderless-Windowed-Updated\src\main.cpp:92) Borderless Windowed Updated loaded successfully.
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+04:36:59 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+04:36:59 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+04:36:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+04:37:00 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:37:00 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:37:00 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:37:00 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+04:37:00 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+04:37:00 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+04:37:00 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+04:37:25 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 47400 ms
+04:37:25 PM Lua: [Joker Masks][ERROR] Failed reading hook file mods/Joker Masks/Hooks/blackmarketgui.lua of type post
+04:37:26 PM Log:  (C:\projects\payday2-superblt\src\xaudio\XAudio.cpp:142) Loaded OpenAL XAudio API
+04:37:29 PM Lua: sause
+04:37:30 PM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Joker Masks/Hooks/blackmarketgui.lua: No such file or directory
+
+04:37:31 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+04:37:31 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+04:37:34 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+04:37:34 PM Lua: [REFUND CRASH]: Hello everynya!
+04:37:34 PM Lua: [REFUND CRASH]: Can read save, decoding it
+04:37:34 PM Lua: [REFUND CRASH]: Load()
+04:37:34 PM Lua: [REFUND CRASH]: table: 0x39847ba0
+04:37:34 PM Lua: [REFUND CRASH]:     ShowMessage : false
+04:37:34 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 2d26cb02f9bedfbfbc62dd7531751a093ab9cf5faa6beb579f768269b7aa2a3b
+04:37:34 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 400000
+04:37:34 PM Lua: [REFUND CRASH]:     IsJobActive : true
+04:37:34 PM Lua: [REFUND CRASH]: Save()
+04:37:34 PM Lua: [REFUND CRASH]: table: 0x39847ba0
+04:37:34 PM Lua: [REFUND CRASH]:     ShowMessage : false
+04:37:34 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 2d26cb02f9bedfbfbc62dd7531751a093ab9cf5faa6beb579f768269b7aa2a3b
+04:37:34 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 400000
+04:37:34 PM Lua: [REFUND CRASH]:     IsJobActive : true
+04:37:35 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:37:35 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:37:35 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:37:35 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+04:37:35 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+04:37:35 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+04:37:35 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+04:37:36 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] XML-Tweaking (DB) Bundle File 4baacfbda800c3a1.e4999c1d5a38e5fc
+04:37:55 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_1'
+04:37:55 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_2'
+04:38:02 PM Lua: [REFUND CRASH]: hash: 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+04:38:02 PM Lua: [REFUND CRASH]: Current offshore: 212669000
+04:38:02 PM Lua: [REFUND CRASH]: Returned: 400000$ offshore money from crash
+04:38:02 PM Lua: [REFUND CRASH]: After offshore213069000
+04:38:02 PM Lua: [REFUND CRASH]: State has been changed, saving file
+04:38:02 PM Lua: [REFUND CRASH]: Save()
+04:38:02 PM Lua: [REFUND CRASH]: table: 0x39847ba0
+04:38:02 PM Lua: [REFUND CRASH]:     ShowMessage : false
+04:38:02 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+04:38:02 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 400000
+04:38:02 PM Lua: [REFUND CRASH]:     IsJobActive : true
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/43232/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/37213/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/27168/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/47335/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/22431/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/32384/version
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.github.com/repos/ThuverX/introcinematics/commits/main
+04:38:02 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/42687/version
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-hoplib
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-bot-weapons
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/DareFox/refund-offshore-on-crash-pd2/main/meta.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://gitlab.com/steam-test1/alternative-updates/-/raw/main/updates_metas/meta_vanhudplus.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/Shane1230/autoupdate/main/IIL
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/Buurazu/Radial-Menu-Vocalizer/main/meta.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-weapon-holsters
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/vojin154/pd2_check_for_wallbangs/main/meta.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-useful-bots
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/b1hkmlxt8sifjcc/meta.json?raw=1
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/DragDropInventory_25.zip
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/fragtrane/Payday-2-Mod-Updates/raw/master/Improved%20Offline%20Functionality/latest.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/HugoZink/PD2_VocalHeisters/releases/download/pd2mod_release/meta.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/Javgarag/PD2RedHealthBelow225/releases/download/v1.2.0/meta.json
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-keepers-joker-names
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/0z0qdjqumi1iq7f/meta.json?raw=1
+04:38:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/4su2vvgbsn7sfdf/meta.json?raw=1
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'radial-menu-vocalizer'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'check_for_wallbangs'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'vanhudplus'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'iil'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'darefox_refund_offshore_on_crash'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'ImprovedOfflineFunctionality'
+04:38:04 PM Lua: [INFO] [Updates] Comparing hash data for 'ImprovedOfflineFunctionality':
+Server: 90bf7cc690787dde843fbb56f4da3bb05a2ebb7495f2bb2811f1a64c0c0971ea
+ Local: 90bf7cc690787dde843fbb56f4da3bb05a2ebb7495f2bb2811f1a64c0c0971ea
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'vocalheisters'
+04:38:04 PM Lua: [INFO] [Updates] Comparing hash data for 'vocalheisters':
+Server: 63894dcef78fe932888f64531d7c8a99f040dd54429a9696cf8112eb93429383
+ Local: 63894dcef78fe932888f64531d7c8a99f040dd54429a9696cf8112eb93429383
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'pd2_red_health_below_225'
+04:38:04 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2_red_health_below_225':
+Server: 06826f6f0201ea94132358be772559dd89054c41bb1c07568df3de01674c29fd
+ Local: 06826f6f0201ea94132358be772559dd89054c41bb1c07568df3de01674c29fd
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'CSLMM'
+04:38:04 PM Lua: [INFO] [Updates] Received update data for 'pd2-weapon-holsters'
+04:38:05 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-weapon-holsters':
+Server: dccb08a4a55609f503e6da743027191a02115cc92015b7e93532e15d320fdf96
+ Local: dccb08a4a55609f503e6da743027191a02115cc92015b7e93532e15d320fdf96
+04:38:05 PM Lua: [INFO] [Updates] Received update data for 'pd2-hoplib'
+04:38:05 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-hoplib':
+Server: ccc10c1e3a4e7a0c5f75943bcd1c9ad8475d0689d91bf244228ff0afffa02fc9
+ Local: ccc10c1e3a4e7a0c5f75943bcd1c9ad8475d0689d91bf244228ff0afffa02fc9
+04:38:05 PM Lua: [INFO] [Updates] Received update data for 'pd2-bot-weapons'
+04:38:06 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-bot-weapons':
+Server: ea9cfc79ea466d342551b4eb7cc58718f8a5aa9d93d2e3642ec5ca969b9b1482
+ Local: ea9cfc79ea466d342551b4eb7cc58718f8a5aa9d93d2e3642ec5ca969b9b1482
+04:38:06 PM Lua: [INFO] [Updates] Received update data for 'pd2-keepers-joker-names'
+04:38:06 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-keepers-joker-names':
+Server: 7ecf7abe86b115edee2cfc3df9eb25f92a970faacca3c649608f8c1ea70d6d86
+ Local: 7ecf7abe86b115edee2cfc3df9eb25f92a970faacca3c649608f8c1ea70d6d86
+04:38:06 PM Lua: [INFO] [Updates] Received update data for 'pd2-useful-bots'
+04:38:07 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-useful-bots':
+Server: c50c5ecab4c656930a34d0a3276b3c3a9563c3e8621b074147f6ddff750bebb5
+ Local: c50c5ecab4c656930a34d0a3276b3c3a9563c3e8621b074147f6ddff750bebb5
+04:38:07 PM Lua: [INFO] [Updates] Received update data for 'the_fixes'
+04:38:07 PM Lua: [INFO] [Updates] Received update data for 'BAI'
+04:38:07 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+04:38:23 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] XML-Tweaking (DB) Bundle File 4baacfbda800c3a1.5f4f63fc336a19d5
+05:02:42 PM Lua: [REFUND CRASH]: State has been changed, saving file
+05:02:42 PM Lua: [REFUND CRASH]: Save()
+05:02:42 PM Lua: [REFUND CRASH]: table: 0x39847ba0
+05:02:42 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:02:42 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:02:42 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:02:42 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:02:42 PM Lua: [REFUND CRASH]: State has been changed, saving file
+05:02:42 PM Lua: [REFUND CRASH]: Save()
+05:02:42 PM Lua: [REFUND CRASH]: table: 0x39847ba0
+05:02:42 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:02:42 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:02:42 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:02:42 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:02:42 PM Lua: [REFUND CRASH]: 396000$ offshore was spend on contract alex_s_2
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_sync_game_settings/alex_s_2|alex_2|sm_wish|CODE FOR METH|43232|modworkshop
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/vocalheisters_hello/796
+05:03:46 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_sync_game_settings/alex_s_2|alex_2|sm_wish|CODE FOR METH|43232|modworkshop
+05:03:48 PM Lua: Deleyed call started
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:03:58 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:04:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:04:10 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:04:10 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:04:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:04:10 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:04:10 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:04:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:04:10 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:04:10 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:04:10 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:04:10 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:04:11 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:04:11 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:04:11 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:04:11 PM Lua: [Joker Masks][ERROR] Failed reading hook file mods/Joker Masks/Hooks/blackmarketgui.lua of type post
+05:04:14 PM Lua: sause
+05:04:14 PM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Joker Masks/Hooks/blackmarketgui.lua: No such file or directory
+
+05:04:14 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+05:04:14 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+05:04:15 PM Lua: Doing Normal RedHealth
+05:04:16 PM Lua: Doing Normal RedHealth
+05:04:16 PM Lua: [REFUND CRASH]: Hello everynya!
+05:04:16 PM Lua: [REFUND CRASH]: Can read save, decoding it
+05:04:16 PM Lua: [REFUND CRASH]: Load()
+05:04:16 PM Lua: [REFUND CRASH]: table: 0x117cd320
+05:04:16 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:04:16 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:04:16 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:04:16 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:04:16 PM Lua: [REFUND CRASH]: Save()
+05:04:16 PM Lua: [REFUND CRASH]: table: 0x117cd320
+05:04:16 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:04:16 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:04:16 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:04:16 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:04:17 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+05:04:21 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_1'
+05:04:21 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_2'
+05:04:26 PM Lua: [BAI] Vanilla compatibility applied.
+05:04:26 PM Lua: [BAI] HUDList in VanillaHUD Plus detected. Compatibility applied.
+05:04:26 PM Lua: [BAI] No Mod detected. Vanilla mod compatibility applied.
+05:04:26 PM Lua: [BAI] Custom assault text loaded
+05:04:26 PM Lua: [BAI] Assault Panel Position loaded
+05:04:26 PM Lua: [BAI] Successfully initialized
+05:04:26 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/vocalheisters_hello/513
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:04:27 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:04:31 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:05:28 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:05:30 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"jacket","armor":"level_7"}
+05:05:30 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"old_hoxton","armor":"level_7"}
+05:06:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BAI_AssaultState/control
+05:06:37 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"old_hoxton","armor":"level_7"}
+05:06:37 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"jacket","armor":"level_7"}
+05:07:38 PM Lua: Entered hook
+05:07:38 PM Lua: no timer
+05:08:08 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/AssaultStates_Net/anticipation
+05:08:08 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/SyncAssaultPhase/anticipation
+05:08:28 PM Lua: Entered hook
+05:08:38 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/AssaultStates_Net/build
+05:08:38 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/SyncAssaultPhase/build
+05:08:53 PM Lua: Entered hook
+05:09:15 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BAI_AssaultState/sustain
+05:09:15 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/AssaultStates_Net/sustain
+05:09:15 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/SyncAssaultPhase/sustain
+05:10:59 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:10:59 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:10:59 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:10:59 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:10:59 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:10:59 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:10:59 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:10:59 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:10:59 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:10:59 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:10:59 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:11:00 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:11:00 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:11:00 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:11:00 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:11:00 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:11:00 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:11:00 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:11:00 PM Lua: [Joker Masks][ERROR] Failed reading hook file mods/Joker Masks/Hooks/blackmarketgui.lua of type post
+05:11:00 PM Lua: sause
+05:11:01 PM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Joker Masks/Hooks/blackmarketgui.lua: No such file or directory
+
+05:11:01 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+05:11:01 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+05:11:02 PM Lua: Doing Normal RedHealth
+05:11:02 PM Lua: Doing Normal RedHealth
+05:11:02 PM Lua: [REFUND CRASH]: Hello everynya!
+05:11:02 PM Lua: [REFUND CRASH]: Can read save, decoding it
+05:11:02 PM Lua: [REFUND CRASH]: Load()
+05:11:02 PM Lua: [REFUND CRASH]: table: 0x60a6bf60
+05:11:02 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:11:02 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:11:02 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:11:02 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:11:02 PM Lua: [REFUND CRASH]: Save()
+05:11:02 PM Lua: [REFUND CRASH]: table: 0x60a6bf60
+05:11:02 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:11:02 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:11:02 PM Lua: [REFUND CRASH]:     OffshoreMoneySpend : 396000
+05:11:02 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:11:02 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+05:11:03 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_1'
+05:11:03 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_2'
+05:11:05 PM Lua: [BAI] Vanilla compatibility applied.
+05:11:05 PM Lua: [BAI] HUDList in VanillaHUD Plus detected. Compatibility applied.
+05:11:05 PM Lua: [BAI] No Mod detected. Vanilla mod compatibility applied.
+05:11:05 PM Lua: [BAI] Custom assault text loaded
+05:11:05 PM Lua: [BAI] Assault Panel Position loaded
+05:11:05 PM Lua: [BAI] Successfully initialized
+05:11:05 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/vocalheisters_hello/786
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:06 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BeardLib_lobby_sync_update_level_id/alex_2
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:35 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:11:36 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:11:37 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"jacket","armor":"level_7"}
+05:11:37 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"german","armor":"level_7"}
+05:13:09 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BAI_AssaultState/control
+05:13:10 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"jacket","armor":"level_7"}
+05:13:11 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/bot_weapons_sync/{"skin":"none","equip":"doctor_bag","name":"german","armor":"level_7"}
+05:13:48 PM Lua: [REFUND CRASH]: Player has terminated contract willfully. Reset cashbacks status
+05:13:48 PM Lua: [REFUND CRASH]: State has been changed, saving file
+05:13:48 PM Lua: [REFUND CRASH]: Save()
+05:13:48 PM Lua: [REFUND CRASH]: table: 0x60a6bf60
+05:13:48 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:13:48 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:13:48 PM Lua: [REFUND CRASH]:     IsJobActive : true
+05:13:48 PM Lua: [REFUND CRASH]: State has been changed, saving file
+05:13:48 PM Lua: [REFUND CRASH]: Save()
+05:13:48 PM Lua: [REFUND CRASH]: table: 0x60a6bf60
+05:13:48 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:13:48 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:13:48 PM Lua: [REFUND CRASH]:     IsJobActive : false
+05:13:50 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:13:50 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:50 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:13:50 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:13:50 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:13:50 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:13:50 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:50 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:13:50 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:13:50 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:13:50 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:13:51 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+05:13:51 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+05:13:51 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Smooth Contours'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Fix Voiceline Overlap'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Casing Mode Coughing'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'HopLib'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Steam Avatar to Social Hub'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Heister laugh when they take down civillians'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Joker Masks'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Drill Dig in'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Cocaine Drill'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Bot Weapons and Equipment'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'No Auto-Kick Cheaters'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Refund Offshore on crash'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Mint Weapon Color by Default'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:51 PM Lua: [INFO] [BLT] Loading native module for 'Fullscreen Windowed(Borderless Windowed Updated)'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Bain SHUT UP'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Infamy in lobby'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'No Idle Intro'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Radial Menu Vocalizer'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Stop All Sounds'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Menu of Menus'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Greetings'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Positive'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Callouts'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Enemy Callouts'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Swearing'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Drills'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Directions'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: MOVE!'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Time to Go'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Stealth'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: MOVE!'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Yes!'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: No!'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Bain: Pagers'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: The Thermal Drill'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Bile Death'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Alarm SFX'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Cop Selection (Russian/Mexican)'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cop SFX: Pain'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Options: Civ Selection'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Civ SFX'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Entrance'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Specials Actions'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Cloaker SFX'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Christmas'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Goat SFX'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Megaphone Cop'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Radial Menu: Music'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Taxman Interrogation'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Skydiving'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Move The Loot'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Whistle'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Open The Door'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Shield'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'SFX: Baaaa'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Numbers only for page names'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Mouse Wheel Switch Weapons'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Weapon Holsters'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Check For Wallbangs'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'ragdoll sounds'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Actually useful difficulty descriptions'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Rebuy On Restart'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Storyline Continued'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Steam Profile Redirection'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'The Crew Background'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Useful Bots'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Rats Smoke Removal'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Show Mask in Outfit Screen'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Seamless Head Bobbing'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Remove menu announcements'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'LightFX fix'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Realistic Pagers'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Safehouse Karaoke'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Reorganized Black Market Buttons'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'More Menu Poses'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Intro Cinematics By ThuverX'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Load Steam Inventory Once'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Crime Spree Loud Modifiers as Mutators'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Correctly Facing Body Bags Case'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Display Deployable in Menu'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'More Blank Patterns'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'DS Damage / Health Rebalance'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Cloaker Camera Control Tweak'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Better Crew Management'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Allow Weapon Descriptions'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'CC Tool'
+05:13:51 PM Lua: [INFO] [Keybind] Registered keybind 'Change_CC'
+05:13:51 PM Lua: [INFO] [Keybind] Bound 'Change_CC' to num +
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Any Day Any Heist'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Basic Weapon description'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Dynamic Weapon Animations'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Fix Potential Experience'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Improved Offline Functionality'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Instant Card Flip'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Hidden Content Updates'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Hide Cheater Label'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Vocal Heisters'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'FUCK THE Flashbangs'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Not Again! Even More Skillsets!'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Disable some repeated dialogue PART 2'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Health Turns Red When Under 225'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Keepers Joker Names'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'The Fixes'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+05:13:51 PM Lua: [INFO] [BLT] Setting up mod 'Sixth Sense Visual Effect'
+05:13:51 PM Lua: [Joker Masks][ERROR] Failed reading hook file mods/Joker Masks/Hooks/blackmarketgui.lua of type post
+05:13:52 PM Lua: sause
+05:13:52 PM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Joker Masks/Hooks/blackmarketgui.lua: No such file or directory
+
+05:13:52 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+05:13:52 PM Lua: [ERROR] [Hooks] Could not hook function 'on_peer_added' (fastdrillJoinLobby)
+05:13:53 PM Lua: [ERROR] [Hooks] Could not hook function 'set_timer_multiplier' (fastdrillStart)
+05:13:53 PM Lua: [REFUND CRASH]: Hello everynya!
+05:13:53 PM Lua: [REFUND CRASH]: Can read save, decoding it
+05:13:53 PM Lua: [REFUND CRASH]: Load()
+05:13:53 PM Lua: [REFUND CRASH]: table: 0x5f298080
+05:13:53 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:13:53 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:13:53 PM Lua: [REFUND CRASH]:     IsJobActive : false
+05:13:53 PM Lua: [REFUND CRASH]: Save()
+05:13:53 PM Lua: [REFUND CRASH]: table: 0x5f298080
+05:13:53 PM Lua: [REFUND CRASH]:     ShowMessage : false
+05:13:53 PM Lua: [REFUND CRASH]:     PreviousCrashHash : 929e6125635091c080fed587045b4fed3212243209003447f3d1b120bf7f80f1
+05:13:53 PM Lua: [REFUND CRASH]:     IsJobActive : false
+05:13:54 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_1'
+05:13:54 PM Lua: [INFO] [Keybind] Registered keybind 'sws_bind_2'
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/vocalheisters_hello/850
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BCO/ character_locked nothing-nothing no_color_no_material plastic none wpn_fps_fla_mk2 1_2_5_50_ wpn_fps_pis_c96 2_3_4_7_22_5_9_19_ rambo !-1-0 !-1-0 thug default esport|1.0
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEO|1/{"glove_variation":"default"}
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/BEOD/1
+05:13:54 PM Lua: [INFO] [NetworkHelper] Swordfire: GNAP/vocalheisters_hello/850
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-hoplib
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-bot-weapons
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/DareFox/refund-offshore-on-crash-pd2/main/meta.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://gitlab.com/steam-test1/alternative-updates/-/raw/main/updates_metas/meta_vanhudplus.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/Shane1230/autoupdate/main/IIL
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/Buurazu/Radial-Menu-Vocalizer/main/meta.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-weapon-holsters
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/vojin154/pd2_check_for_wallbangs/main/meta.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-useful-bots
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/b1hkmlxt8sifjcc/meta.json?raw=1
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/fragtrane/Payday-2-Mod-Updates/raw/master/Improved%20Offline%20Functionality/latest.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/HugoZink/PD2_VocalHeisters/releases/download/pd2mod_release/meta.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/Javgarag/PD2RedHealthBelow225/releases/download/v1.2.0/meta.json
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://updates.hoppip.at/pd2-keepers-joker-names
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/0z0qdjqumi1iq7f/meta.json?raw=1
+05:13:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/4su2vvgbsn7sfdf/meta.json?raw=1
+05:13:54 PM Lua: [INFO] [Updates] Received update data for 'vanhudplus'
+05:13:54 PM Lua: [INFO] [Updates] Received update data for 'radial-menu-vocalizer'
+05:13:54 PM Lua: [INFO] [Updates] Received update data for 'check_for_wallbangs'
+05:13:54 PM Lua: [INFO] [Updates] Received update data for 'darefox_refund_offshore_on_crash'
+05:13:54 PM Lua: [INFO] [Updates] Received update data for 'iil'
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'ImprovedOfflineFunctionality'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'ImprovedOfflineFunctionality':
+Server: 90bf7cc690787dde843fbb56f4da3bb05a2ebb7495f2bb2811f1a64c0c0971ea
+ Local: 90bf7cc690787dde843fbb56f4da3bb05a2ebb7495f2bb2811f1a64c0c0971ea
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2_red_health_below_225'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2_red_health_below_225':
+Server: 06826f6f0201ea94132358be772559dd89054c41bb1c07568df3de01674c29fd
+ Local: 06826f6f0201ea94132358be772559dd89054c41bb1c07568df3de01674c29fd
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'vocalheisters'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'vocalheisters':
+Server: 63894dcef78fe932888f64531d7c8a99f040dd54429a9696cf8112eb93429383
+ Local: 63894dcef78fe932888f64531d7c8a99f040dd54429a9696cf8112eb93429383
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2-weapon-holsters'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-weapon-holsters':
+Server: dccb08a4a55609f503e6da743027191a02115cc92015b7e93532e15d320fdf96
+ Local: dccb08a4a55609f503e6da743027191a02115cc92015b7e93532e15d320fdf96
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2-bot-weapons'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-bot-weapons':
+Server: ea9cfc79ea466d342551b4eb7cc58718f8a5aa9d93d2e3642ec5ca969b9b1482
+ Local: ea9cfc79ea466d342551b4eb7cc58718f8a5aa9d93d2e3642ec5ca969b9b1482
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2-keepers-joker-names'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-keepers-joker-names':
+Server: 7ecf7abe86b115edee2cfc3df9eb25f92a970faacca3c649608f8c1ea70d6d86
+ Local: 7ecf7abe86b115edee2cfc3df9eb25f92a970faacca3c649608f8c1ea70d6d86
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2-hoplib'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-hoplib':
+Server: ccc10c1e3a4e7a0c5f75943bcd1c9ad8475d0689d91bf244228ff0afffa02fc9
+ Local: ccc10c1e3a4e7a0c5f75943bcd1c9ad8475d0689d91bf244228ff0afffa02fc9
+05:13:55 PM Lua: [INFO] [Updates] Received update data for 'pd2-useful-bots'
+05:13:55 PM Lua: [INFO] [Updates] Comparing hash data for 'pd2-useful-bots':
+Server: c50c5ecab4c656930a34d0a3276b3c3a9563c3e8621b074147f6ddff750bebb5
+ Local: c50c5ecab4c656930a34d0a3276b3c3a9563c3e8621b07414
